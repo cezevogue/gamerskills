@@ -96,7 +96,7 @@ if (!empty($_POST)) {   // si le formulaire a été envoyé
 
   endforeach;
 
-  header('location:./intro.php');
+  header('location:./index.php');
   exit;
 }
 

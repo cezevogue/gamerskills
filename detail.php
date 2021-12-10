@@ -27,7 +27,7 @@ endif;
 ?>
 <div>
 
-  <a href="intro.php"><button class="btn btn-primary">retour</button></a>
+  <a href="index.php"><button class="btn btn-primary">retour</button></a>
 
 </div>
 
